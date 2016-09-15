@@ -4,4 +4,5 @@
 ###2.spelling english name on the screen
 
 ##`exercise`
-
+* using print() to show name 
+![name1](
