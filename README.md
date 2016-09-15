@@ -5,4 +5,4 @@
 
 ##`exercise`
 * using print() to show name 
-![name1](
+![name1](https://github.com/LuxAsteria/test3/blob/master/method1.png)
