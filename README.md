@@ -13,12 +13,13 @@ This home work is mainly about how to print my english name on the screen using 
 ![name1](https://github.com/LuxAsteria/test3/blob/master/method1.png)
 
 ##`exercise2 method 2`
-* drawing the scatter piont of a function,take advantage of numpy and matplotlib
+* drawing the scatter piont of a function
 ![name2](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-09-16%20下午12.19.04.png)
 
 **here is the code**
-
-
   
 ##`Conclusion`
 In this article,I've showed 2 simple methods to achieve my goal.If anyone has got some other execellent ideas, welcome to discuss with me.
+
+
+#ps:All Rights Reserved
