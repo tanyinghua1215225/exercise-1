@@ -1,0 +1,41 @@
+Exercise-01:write down your name
+
+Abstract
+This homework is about how to print your name on the screen using Python.My name is "Yinghua Tan".
+
+Background
+1:Using How to Think Like a Computer Scientist-Learning with Python.Interactive Edition 2.0 to learn Python lauguage.
+2:The homework
+
+Python Lauguage(Method 1)
+print("##   ##  ##                 ##                  #######")
+print(" ## ##                      ##                     ##")
+print("  ##     ##  #####    ###   ####   ## ##   ###     ##     ###   ####")
+print("  ##     ##  ##  ##  ## ##  ## ##  ## ##  ## ##    ##    ## ##  ## ##")
+print("  ##     #@  ##  ##   ####  ## ##   ###    ####    ##     ####  ## ##")
+print("                     #  ##")
+print("                      ### ")
+
+Pyhon Lauguage(Method 2)
+print("##   ##  ####  ####   ###   ####   ##  ##  ##  ##      ###      ########      ###      ####   ###")
+print(" ## ##    ##   ## ##   ##  ##  ##  ##  ##  ##  ##     ## ##        ##        ## ##     ## ##   ##")
+print("  ##      ##   ##  ##  ##  ##      ######  ##  ##    ##   ##       ##       ##   ##    ##  ##  ##")
+print("  ##      ##   ##   ## ##  ##  ##  ##  ##  ##  ##   #########      ##      #########   ##   ## ##")
+print("  ##     ####  ###   ####   #####  ##  ##   ####   ##       ##     ##     ##       ##  ###   ####")
+
+The Result:
+##   ##  ##                 ##                  #######
+ ## ##                      ##                     ##
+  ##     ##  #####    ###   ####   ## ##   ###     ##     ###   ####
+  ##     ##  ##  ##  ## ##  ## ##  ## ##  ## ##    ##    ## ##  ## ##
+  ##     ##  ##  ##   ####  ## ##   ###    ####    ##     ####  ## ##
+                     #  ##
+                      ###
+                     
+##   ##  ####  ####   ###   ####   ##  ##  ##  ##      ###      ########      ###      ####   ###
+ ## ##    ##   ## ##   ##  ##  ##  ##  ##  ##  ##     ## ##        ##        ## ##     ## ##   ##
+  ##      ##   ##  ##  ##  ##      ######  ##  ##    ##   ##       ##       ##   ##    ##  ##  ##
+  ##      ##   ##   ## ##  ##  ##  ##  ##  ##  ##   #########      ##      #########   ##   ## ##
+  ##     ####  ###   ####   #####  ##  ##   ####   ##       ##     ##     ##       ##  ###   ####
+  
+Thanks to Mnegdi Yin,Jinting Li and Zijin Jin.
